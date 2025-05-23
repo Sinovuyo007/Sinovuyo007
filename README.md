@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sinovuyo Mathungana!</h1>
+<h1>Hi, I'm Sinovuyo Mathungana</h1>
 
 <h2>👨‍💻My Projects:</h2>
 
