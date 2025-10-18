@@ -10,10 +10,10 @@
 
 <h3>Reflection: Star technique</h3>
 
-- Situation: I was uncertain about my career path
+- Situation: I was uncertain about my skills in business communication
 - Task: I wanted clarity on what i wanted to do in my career
-- Action: i did the career counselling
-- Result: i gained clarity on what i wanted to do
+- Action: i did the business communication
+- Result: i gained clarity on what i how to do
 
 <h2>Interview Skills</h2>
 
@@ -23,10 +23,10 @@
 
 <h3>Reflection: Star technique</h3>
 
-- Situation: I was uncertain about which skills would be useful in my career
-- Task: I wanted clarity on what skills and intrests could be useful in my career
-- Action: i did the skills and intrests task
-- Result: i gained clarity on my skill and intrests
+- Situation: I wanted to improve my skills for when i attend a interview
+- Task: I wanted to improve skills in handling a interview
+- Action: i did the interview skills task
+- Result: i improved on my interview skills
 
 <h2>Mock Interview</h2>
 
@@ -36,10 +36,10 @@
 
 <h3>Reflection: Star technique</h3>
 
-- Situation: I was uncertain about how my personality could be impact my career
-- Task: I wanted clarity on my personality and how i can iprove it if applicable
-- Action: i did the personality assessment
-- Result: i gained clarity on my personality and how it can impact my career and where I can improve it
+- Situation: I was uncertain about how to my interview skills are like
+- Task: I wanted to test and apply the skills i learned on how to handle a interview
+- Action: I did the mock interview
+- Result: I gained further exprience and knowledge on interview handling 
 
 <h2>Professional Networking</h2>
 
@@ -49,10 +49,10 @@
 
 <h3>Reflection: Star technique</h3>
 
-- Situation: I was uncertain about how to create a suitable CV
-- Task: I wanted to know how to create a eye catching and suitable CV
-- Action: i did the create a CV assessment
-- Result: i gained clarity on how to create a eye catching and suitable CV
+- Situation: I was uncertain about how to network myself professionally
+- Task: I wanted to know how to network professionally
+- Action: i did the professional networking
+- Result: i gained clarity on how to network myself to others
 
 <h2>CWORKPLACE ETIQUETTE</h2>
 
@@ -62,7 +62,7 @@
 
 <h3>Reflection: Star technique</h3>
 
-- Situation: I had to submit my CV with the correct credentials
-- Task: I wanted to submit CV with the correct credentials
-- Action: i read the instruction and gathered the necessary requirements for my CV
-- Result: i submitted my CV with the correct requirements
+- Situation: I wanted uncertain about workplace etiquette
+- Task: I wanted learn about workplace etiquette
+- Action: i did the workplace etiquette
+- Result: i learned workplace etiquette
